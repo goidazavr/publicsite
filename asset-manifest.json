@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/publicsite/static/css/main.af4fd4bf.css",
-    "main.js": "/publicsite/static/js/main.02d0fdef.js",
-    "static/js/453.e5ff7082.chunk.js": "/publicsite/static/js/453.e5ff7082.chunk.js",
-    "static/media/telegram.png": "/publicsite/static/media/telegram.988c59adaa9b53f71e21.png",
-    "static/media/discord.png": "/publicsite/static/media/discord.89a643f17fef765fcc34.png",
-    "index.html": "/publicsite/index.html",
-    "main.af4fd4bf.css.map": "/publicsite/static/css/main.af4fd4bf.css.map",
-    "main.02d0fdef.js.map": "/publicsite/static/js/main.02d0fdef.js.map",
-    "453.e5ff7082.chunk.js.map": "/publicsite/static/js/453.e5ff7082.chunk.js.map"
+    "main.css": "/static/css/main.af4fd4bf.css",
+    "main.js": "/static/js/main.ff75f822.js",
+    "static/js/453.87976bfb.chunk.js": "/static/js/453.87976bfb.chunk.js",
+    "static/media/telegram.png": "/static/media/telegram.988c59adaa9b53f71e21.png",
+    "static/media/discord.png": "/static/media/discord.89a643f17fef765fcc34.png",
+    "index.html": "/index.html",
+    "main.af4fd4bf.css.map": "/static/css/main.af4fd4bf.css.map",
+    "main.ff75f822.js.map": "/static/js/main.ff75f822.js.map",
+    "453.87976bfb.chunk.js.map": "/static/js/453.87976bfb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af4fd4bf.css",
-    "static/js/main.02d0fdef.js"
+    "static/js/main.ff75f822.js"
   ]
 }
